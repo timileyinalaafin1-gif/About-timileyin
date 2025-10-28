@@ -1,0 +1,41 @@
+.container{
+max-width: 900px;
+padding: 1rem;
+}
+
+.siteheader{
+background-color:blue;
+height: auto;
+font-size: medium;
+}
+.logo{
+display: inline-block;
+font-size: 1.25rem;
+padding: 2rem;
+height: 30px;
+color: black;
+background-color: rgb(172, 133, 49);
+width: 10000px;
+height: 0px;
+font-size: 25px;
+}
+.nav-list{
+list-style: none;
+display: flex;
+background-color: aliceblue;
+gap: 2rem;
+}
+body{
+background-color: rgb(75, 176, 207);
+}
+.site footer{
+    background-color: white;
+    color: #000;
+}
+.hobby-list{
+    color:white;
+    background-color: rgb(176, 202, 26);
+}
+
+
+
